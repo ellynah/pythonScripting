@@ -57,10 +57,4 @@ for line in open("/etc/passwd"):
 print(maxuid)
 ```
 
-![ ]( )
-
-```python
-
-```
-
 ![1_4_find_uid.png](https://github.com/ellynah/pythonScripting/blob/master/screen_shot/1_4_find_uid.png)
